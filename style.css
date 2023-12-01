@@ -1,0 +1,35 @@
+body{
+    font-family:Montserrat;
+}
+#container{
+    text-align:center;
+}
+#game-heading{
+    text-align:center;
+}
+#sentence-div{
+    margin-left:20%;
+    height:200px;
+    width:60%;
+    background-image:linear-gradient(rgb(104, 4, 4),rgb(1, 63, 1));
+    color:white;
+    border-radius: 2cqb;
+}
+#input-text{
+    margin-left:40%;
+    margin-top:8%;
+}
+#counter-div{
+    margin-left:47%;
+    margin-top:20px;
+    font-weight:bold;
+}
+#score-div{
+    /* height:100px;
+    width:300px;
+    background-color:lightgoldenrodyellow; */
+font-weight:bold;
+font-size:30px;
+    margin-left:30%;
+margin-top:40px;
+}
